@@ -21,9 +21,6 @@ The winner is determined based on traditional game rules.
 The score updates and a message appears showing the result.
 
 📁 Project Structure:
-rust
-Copy
-Edit
 - index.html      -> Main HTML page
 - style.css       -> Styling for layout and animations
 - logic.js        -> Game logic and interactions
